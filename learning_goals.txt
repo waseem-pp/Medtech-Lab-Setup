@@ -1,0 +1,3 @@
+1. Master asynchronous programming in node.js within the next month.
+2. Build and deploy a complete RESTful API using Express.js before end of the quarter.
+3. Understand and implement best practices for schema design and normalization.

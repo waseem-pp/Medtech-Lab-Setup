@@ -1,0 +1,1 @@
+console.log("MedTech Lab System: Ready for Development!");
